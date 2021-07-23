@@ -9,7 +9,7 @@ For this project, I decided to learn how to design, program, and render my own v
 
 # Working Game Demo
 
-[![Working Game Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1627065419/video_to_markdown/images/youtube--9iCnjdXEfMA-c05b58ac6eb4c4700831b2b3070cd403.jpg (https://www.youtube.com/watch?v=Tqe6Nz1GTYc "Working Game Demo"){:target="_blank" rel="noopener"}
+[![Working Game Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1627065419/video_to_markdown/images/youtube--9iCnjdXEfMA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Tqe6Nz1GTYc "Working Game Demo"){:target="_blank" rel="noopener"}
 
 Some small snippets of the player code:
 
