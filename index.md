@@ -1,5 +1,5 @@
 ﻿# Programming My First Video Game in Unity
-For this project, I decided to learn how to design, program, and render my own video game in Unity. I decided on creating a 2D game with the illusion of depth, meaning that the player character is capable of moving in all four directions and also jumping. The gameplay focuses around platforming, exploring the environment, and clearing multiple levels of enemies.
+For this project, I decided to learn how to design, program, and render my own video game in Unity. I decided on creating a 2D game with the illusion of depth, meaning that the player character is capable of moving in all directions on the X and Z-axes and also jumping. The gameplay focuses around platforming, exploring the environment, and clearing multiple levels of enemies.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,16 +8,18 @@ For this project, I decided to learn how to design, program, and render my own v
 ![Headstone Image](https://itchronicles.com/wp-content/uploads/2021/04/Optimized-Illustration-from-Adobe-Stock-for-ITC-Post-on-AI-in-Game-Development-scaled.jpeg)
   
 # Final Milestone
- 
 
-[![Final Milestone]
+For my final milestone, I finalized my player interaction with the enemies and the environment. I incorporated health for both the enemies and my player, as well as hitbox detection and corresponding damaged and death animations. Because of the time constraints, I was not able to incorporate every single element that I originally intended to include. For instance, there is no practical platforming sections in the finalized game demo, although all the components to incorporate platforming do exist within my code and game assets. The code I've created is generally universal between the enemies, and able to be applied with miniscule changes to some lines of code that identify which animations to play when hurt or killed. Considering that the average game takes months or even years to develop with a whole team of people, I still feel that I accomplished a lot in my 3 weeks and learned many crucial aspects of game design and Unity overall.
+
+[![Final Milestone](
 
 {:target="_blank" rel="noopener"}
 
 # Second Milestone
 
+My second milestone involved incorporating parameters for the player and enemies in terms of movement, detection, and basic combat. After completing this milestone, my enemy sprites were capable of detecting the player within a certain radius and chasing after her, and they can further trigger an attack animation when the player is within an even smaller radius. I was not able to fully incorporate health and death in this milestone, but I gained a better grasp of many aspects of C#, and many of the pieces of code that I compiled for this milestone were of my own design as opposed to having been taken from tutorials. While there were still many errors and troubleshooting sessions, this milestone left me with a much better understanding on player interaction with NPCs and the game environment, and how to use Unity.
 
-[![Third Milestone]
+[![Milestone Two -- Enemy AI](https://media.giphy.com/media/d6KCqoO0iRX9TumJWi/giphy.gif)]
 
 {:target="_blank" rel="noopener"}
 
